@@ -1,0 +1,4 @@
+name = CDD Update
+description = Provides a set of methods and functionality for the Drupal 6 websites developed to update core and third party modules.
+core = 6.x
+package = Update
